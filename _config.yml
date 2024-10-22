@@ -28,12 +28,12 @@ url: "https://blog.dakotaraine.xyz" # the base hostname & protocol for your site
 github_username:  comradedakota
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-midnight
+theme: minima
+#theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
-  - jemoji
-  - jekyll-youtube
+  #- jemoji
+  #- jekyll-youtube
 
 # Exclude from processing.
 # The following items will not be processed, by default.
