@@ -30,7 +30,7 @@ github_username:  comradedakota
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-midnight
+theme: midnight
 plugins:
   - jekyll-feed
   #- jemoji
