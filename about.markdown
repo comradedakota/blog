@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Dakota
-permalink: /about-dakota/
+permalink: /about/
 ---
 
 It always felt awkward to right about myself in the third person, so I'll just keep this as informal as possible. My name is Dakota. No "About" page is ever going to truly capture my essence, let alone who I am.
