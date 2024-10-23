@@ -23,7 +23,8 @@ email: drxyz-blog.scribing139@passinbox.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog of intellectual musings, both vulgar and refined.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.dakotaraine.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://blog.dakotaraine.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dev.blog.dakotaraine.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  comradedakota
 
