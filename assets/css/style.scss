@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/** Reduces size of bottom margin for page/site title. **/
+section #title {
+  margin-bottom: 10px;
+}
