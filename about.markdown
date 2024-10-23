@@ -16,6 +16,5 @@ If you ask my politics, I'm inclined not to answer. Instead, I will only disclos
 
 And since everyone seems to have their own idea of what revolution looks like, I'm simply starting with the things that I can do and not getting hung up on the details. Anything more than that, you'll just have to read about or ask me.
 
-Regards,
-
+Regards,<br/>
 Dakota
