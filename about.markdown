@@ -1,18 +1,24 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Dakota
+permalink: /about-dakota/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+It always felt awkward to right about myself in the third person, so I'll just keep this as informal as possible.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Dakota. No "About" page is ever going to truly capture my essence, let alone who I am.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+So, for now I'll just tell you that I am:
 
+- constantly questioning my understanding of the world around me.
+- routinely fucking with technology of any/all sorts.
+- enamored with emersive games and great storytelling.
 
-[jekyll-organization]: https://github.com/jekyll
+If you ask my politics, I'm inclined not to answer. Instead, I will only disclose that I believe in the posibility of a world that is equitable for all, but I also know it will require the kind of collective ego-death that only occurs amidst many cultural revolutions...
+
+And since everyone seems to have their own idea of what revolution looks like, I'm simply starting with the things that I can do and not getting hung up on the details.
+
+Anything more than that, you'll just have to read about or ask me.
+
+Regards,
+Dakota
