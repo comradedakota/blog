@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About Dakota
 permalink: /about-dakota/
 ---
